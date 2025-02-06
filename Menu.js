@@ -30,12 +30,8 @@ class Menu {
 }
 
   // Crear un menú con opciones
-const menu = new Menu([
-    "Ver perfil",
-    "Editar configuración",
-    "Consultar notificaciones",
-    "Cerrar sesión"
-]);
+
 
   // Mostrar el menú al iniciar
+  //asdf
 menu.mostrarMenu();
